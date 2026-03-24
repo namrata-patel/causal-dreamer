@@ -1,0 +1,28 @@
+{
+  "total": 10000,
+  "train": 7999,
+  "val": 1001,
+  "test": 1000,
+  "link_type_distribution": {
+    "train": {
+      "causal": 0.9494936867108389,
+      "inhibits": 0.031003875484435554,
+      "enables": 0.01950243780472559
+    },
+    "val": {
+      "causal": 0.949050949050949,
+      "inhibits": 0.030969030969030968,
+      "enables": 0.01998001998001998
+    },
+    "test": {
+      "causal": 0.95,
+      "inhibits": 0.031,
+      "enables": 0.019
+    }
+  },
+  "mean_strength": {
+    "train": 0.7482,
+    "val": 0.7486,
+    "test": 0.7493
+  }
+}

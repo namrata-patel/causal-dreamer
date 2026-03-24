@@ -1,0 +1,191 @@
+cause,effect1,effect2,effect3,effect4,effect5,effect6,effect7,effect8
+A dog running in a park,dog chasing ball,dog panting,dog slowing down,dog stopping,dog playing,grass trampled,dog tired,dog barking
+A dog jumping over a log,dog landing,log cleared,dog in mid-air,paws extended,dog continues running,log jumped over,successful jump,tail wagging
+A dog playing with a ball,ball rolling,dog catching ball,ball bouncing,dog chasing ball,ball thrown,dog fetching,ball in mouth,dog running with ball
+A dog sitting on grass,dog resting,dog looking around,dog lying down,grass flattened,dog panting,tail wagging,dog relaxed,dog standing up
+A dog swimming in a lake,dog paddling,water splashing,dog reaching shore,wet dog,dog enjoying water,lake rippling,dog swimming to shore,dog shaking water
+A cat walking on a fence,cat balancing,fence crossed,cat jumping down,careful steps,cat continuing,paws placed carefully,tail for balance,successful crossing
+A cat jumping onto a table,cat landing on table,items knocked over,cat on table surface,successful jump,cat exploring table,leap completed,cat settled,paws on table
+A cat sleeping on a sofa,cat curled up,sofa warm,peaceful sleep,cat purring,cat dreaming,whiskers twitching,deep sleep,cat comfortable
+A cat playing with yarn,yarn unraveling,cat tangled,yarn rolled around,paws batting yarn,yarn scattered,cat chasing yarn,mess created,yarn ball destroyed
+A cat looking out a window,cat watching birds,window fog from breath,cat focused,tail twitching,bird spotted,cat alert,window sill sat on,cat curious
+A horse running on a field,horse galloping,grass flying,mane flowing,hooves pounding,speed increasing,field crossed,horse powerful,dust rising
+A horse standing in a stable,horse calm,hay eaten,horse resting,stable quiet,horse content,feed consumed,peaceful standing,horse waiting
+A horse drinking water,water consumed,thirst quenched,trough splashed,head lowered,water rippling,drinking deeply,refreshed horse,lips in water
+A cow grazing in a field,grass eaten,cow chewing,field grazed,cow moving slowly,cud chewed,grass consumed,cow satisfied,head lowered
+A cow standing under a tree,cow in shade,cow resting,tree shelter,cow cool,peaceful standing,shade enjoyed,cow protected from sun,relaxed cow
+A bird flying in the sky,bird soaring,wings spread,altitude gained,bird gliding,sky crossed,flight path changing,bird ascending,wind caught
+A bird sitting on a branch,bird perched,branch swaying,bird singing,feathers ruffled,bird watching,nest nearby,bird resting,chirping heard
+A bird spreading its wings,wings extended,bird taking off,feathers displayed,bird preparing to fly,wingspan shown,bird launching,flight begun,bird airborne
+A duck swimming in a pond,duck paddling,ripples created,pond crossed,duck diving,water splashed,duck floating,peaceful swimming,feet paddling
+A duck walking near water,duck waddling,water entered,duck approaching pond,webbed feet visible,duck quacking,shore left,duck stepping carefully,water reached
+A fish swimming underwater,fish moving,water rippling,fish turning,bubbles rising,fish exploring,current navigated,smooth swimming,fins moving
+A fish jumping out of water,fish breaching,splash created,fish airborne,water droplets flying,fish landing,leap completed,surface broken,fish jumping high
+A fish swimming near coral,coral explored,fish hiding,colorful scene,fish weaving through,coral touched,fish resting,reef navigated,fish protected
+A dolphin jumping in the ocean,dolphin breaching,arc completed,water splashed,dolphin airborne,splash large,ocean surface broken,graceful jump,dolphin landing
+A dolphin swimming underwater,dolphin gliding,ocean explored,fish chased,smooth swimming,dolphin diving deeper,pod joined,echolocation used,dolphin playing
+A turtle walking on sand,turtle moving slowly,sand disturbed,beach crossed,slow progress,tracks left,turtle determined,sand hot,destination reached
+A turtle swimming slowly,turtle paddling,water calm,slow movement,shell visible,turtle peaceful,flippers moving,gentle swimming,current followed
+A rabbit hopping on grass,rabbit bouncing,grass compressed,quick hops,rabbit fleeing,ears up,rapid movement,grass crossed,rabbit escaping
+A rabbit eating a carrot,carrot nibbled,carrot consumed,rabbit chewing,orange pieces,carrot smaller,rabbit satisfied,nose twitching,carrot finished
+A squirrel climbing a tree,squirrel ascending,bark gripped,tree climbed,quick movement,branch reached,claws digging,height gained,squirrel in tree
+A squirrel holding a nut,nut stored,nut eaten,cheeks full,nut cracked,nut buried,winter prep,nut examined,paws holding nut
+A lion walking on grass,lion prowling,grass swaying,powerful walk,mane flowing,territory patrolled,regal stride,lion alert,prey sought
+A lion resting in the sun,lion lounging,sun warming,peaceful rest,eyes closed,mane glowing,pride nearby,lion content,heat absorbed
+A tiger walking in the forest,tiger stalking,forest navigated,stealthy movement,stripes camouflaged,prey hunted,silent steps,undergrowth crossed,tiger alert
+A tiger drinking water,water lapped,thirst quenched,river approached,head lowered,tongue out,water consumed,tiger refreshed,reflection seen
+A monkey climbing a tree,monkey ascending,branches grabbed,tree climbed,agile movement,height gained,monkey chattering,limbs used,canopy reached
+A monkey sitting on a branch,monkey resting,branch swaying,monkey grooming,fruit eaten,monkey watching,tail hanging,peaceful sitting,monkey comfortable
+A sheep walking in a field,sheep grazing,field crossed,wool thick,sheep bleating,grass eaten,flock joined,slow walking,peaceful movement
+A goat standing on a hill,goat perched,hill climbed,sure footing,view surveyed,goat balanced,rocky terrain,high position,goat stable
+A deer running in a forest,deer fleeing,forest navigated,graceful running,danger avoided,speed impressive,undergrowth jumped,deer escaping,hooves flying
+A person walking on a road,person strolling,distance covered,road followed,steady pace,destination approaching,footsteps echoing,person continuing,path walked
+A person running on a track,person sprinting,speed increasing,track circled,breath heavy,finish line approaching,legs pumping,person racing,time recorded
+A person jogging in a park,person exercising,steady pace,park lap,health improved,sweat forming,path followed,person breathing,morning jog
+A person jumping in the air,person airborne,height gained,jump completed,person landing,feet off ground,air time,athletic jump,person descending
+A person stretching arms,arms extended,muscles loosened,stretch completed,flexibility increased,warmup done,arms overhead,body prepared,tension released
+A person standing near a tree,person resting,shade enjoyed,tree leaned on,peaceful standing,break taken,person relaxed,tree support,quiet moment
+A person sitting on a bench,person resting,bench occupied,sitting position,break taken,people watching,park enjoyed,person comfortable,legs rested
+A person reading a book,page turned,story absorbed,book opened,person focused,reading continued,knowledge gained,chapter finished,book enjoyed
+A person drinking water,thirst quenched,water consumed,bottle tilted,throat cooled,hydration restored,gulp taken,refreshment felt,water bottle emptied
+A person holding a cup,cup gripped,drink prepared,cup warm,beverage held,cup lifted,contents sipped,handle held,steam rising
+A child running on grass,child playing,grass trampled,laughter heard,joy expressed,energy released,rapid running,child happy,freedom felt
+A child playing with a ball,ball kicked,ball thrown,ball caught,child laughing,game played,ball bouncing,fun had,ball chased
+A child jumping happily,child airborne,excitement shown,jump completed,joy expressed,happy landing,child giggling,playful jump,child smiling
+A child sitting on the floor,child playing,toys around,seated position,child content,floor occupied,legs crossed,child focused,quiet play
+A man walking on a sidewalk,man strolling,sidewalk followed,steady pace,destination approaching,pedestrian walking,path taken,man continuing,casual walk
+A man running uphill,man struggling,hill climbed,effort increased,breathing heavy,incline tackled,legs burning,determination shown,summit approaching
+A man standing under sunlight,man warming,sun felt,shadow cast,light absorbed,man enjoying warmth,peaceful standing,sunlight bathing,vitamin D absorbed
+A woman walking in a park,woman strolling,park enjoyed,peaceful walk,nature appreciated,path followed,woman relaxed,scenery viewed,morning walk
+A woman running on a road,woman jogging,distance covered,exercise completed,road followed,healthy activity,woman determined,pace steady,workout done
+A woman standing near flowers,woman admiring,flowers smelled,beauty appreciated,garden enjoyed,peaceful moment,flowers touched,woman smiling,nature loved
+A person riding a bicycle,person pedaling,bicycle moving,road traveled,wheels turning,balance maintained,cycling forward,person riding,distance covered
+A person stopping a bicycle,brakes applied,bicycle halting,momentum stopped,feet down,stop completed,person dismounting,speed reduced,safe stop
+A person pushing a bicycle,bicycle guided,person walking,bicycle rolled,uphill pushed,tire flat handled,bicycle moved,person walking beside,assistance given
+A person riding a skateboard,person gliding,skateboard rolling,balance kept,tricks performed,pavement crossed,person skating,wheels spinning,smooth ride
+A person jumping on a skateboard,trick attempted,skateboard airborne,jump completed,landing stuck,ollie performed,person skilled,board controlled,successful jump
+A person standing on stairs,person pausing,stairs ahead,climb preparing,person resting,height viewed,next step planned,person steady,position held
+A person climbing stairs,person ascending,steps taken,elevation gained,stairs climbed,breath quickening,level reached,upward movement,climb continued
+A person descending stairs,person going down,careful steps,descent made,lower level reached,stairs descended,person careful,downward movement,stairs cleared
+A person opening a door,door swung open,entrance revealed,knob turned,person entering,threshold crossed,door ajar,room accessed,opening completed
+A person closing a door,door shut,knob released,closure complete,room sealed,door clicked,person inside,privacy secured,door closed
+A person waving a hand,greeting given,hand raised,wave returned,hello said,friendly gesture,acknowledgment made,person smiling,wave completed
+A person raising an arm,arm lifted,signal given,hand high,attention sought,arm extended,gesture made,communication done,arm overhead
+A person standing still,person motionless,position held,stillness maintained,person waiting,no movement,patience shown,person calm,quiet standing
+A person turning around,person rotating,direction changed,180 turn,new view,person faced opposite,turn completed,orientation changed,person looking back
+A person bending down,person lowering,waist bent,object reached,person stooping,back bent,downward movement,person crouched,item picked up
+A person picking up an object,object lifted,item retrieved,hand grasping,object held,pickup completed,person standing,item obtained,successful grab
+A person throwing a ball,ball released,arm extended,ball airborne,throw completed,ball flying,force applied,ball launched,trajectory set
+A person catching a ball,ball caught,hands cupped,catch successful,ball secured,person ready,reflexes shown,ball stopped,catch completed
+A person sitting on grass,person seated,grass flattened,sitting position,person resting,outdoor sitting,ground contact,person comfortable,relaxation begun
+A person lying on grass,person horizontal,grass beneath,person relaxing,sky viewed,peaceful lying,person resting,horizontal position,person calm
+A car driving on a road,car moving,road traveled,engine running,wheels turning,speed maintained,destination approaching,car in motion,driving continued
+A car parked on the street,car stationary,engine off,parking completed,car stopped,street occupied,handbrake on,car secure,parking space filled
+A car turning left,steering turned,direction changed,left turn made,car maneuvering,corner navigated,turn signal on,curve taken,new direction
+A car stopping at a signal,brakes applied,car halted,red light obeyed,engine idling,stop completed,traffic rules followed,car waiting,intersection reached
+A car moving forward,car accelerating,road covered,forward motion,speed increasing,car progressing,wheels rolling,car advancing,travel continued
+A bicycle moving forward,bicycle rolling,pedals turning,forward progress,rider pedaling,wheels spinning,bicycle advancing,movement steady,path followed
+A bicycle standing still,bicycle stationary,kickstand down,no movement,bicycle parked,rider absent,bike stable,position held,bicycle resting
+A bicycle leaning on a wall,bicycle propped,wall supporting,bike angled,stable position,wall leaned against,bicycle secure,bike resting,support found
+A motorcycle driving on a road,motorcycle speeding,road traveled,engine roaring,rider controlling,wheels turning,motorcycle moving,speed maintained,distance covered
+A motorcycle parked,motorcycle stopped,engine off,kickstand down,bike stationary,parking completed,motorcycle secure,bike resting,rider dismounted
+A train moving on tracks,train rolling,tracks followed,passengers aboard,journey continued,wheels on rails,train progressing,station left,locomotive moving
+A train arriving at a station,train slowing,platform approached,brakes applied,train stopping,station reached,doors opening,arrival completed,passengers ready
+A bus stopping at a bus stop,bus halting,doors opening,passengers boarding,stop made,bus idle,people exiting,schedule followed,stop completed
+A bus driving on a road,bus moving,route followed,passengers seated,wheels turning,bus progressing,stops made,transportation provided,journey continued
+A boat floating on water,boat drifting,water calm,boat buoyant,peaceful floating,boat stable,water supporting,boat still,gentle bobbing
+A boat moving on a river,boat sailing,river navigated,oars rowing,current followed,boat progressing,water parting,destination approaching,smooth sailing
+A boat approaching shore,boat nearing land,shore reached,boat beaching,arrival imminent,landing prepared,shore approached,boat slowing,dock nearing
+A plane flying in the sky,plane soaring,altitude maintained,engines running,sky crossed,flight continued,plane cruising,passengers aboard,journey progressing
+A plane landing on runway,plane descending,wheels down,runway approached,landing gear extended,touchdown imminent,plane slowing,safe landing,arrival completed
+A plane parked at airport,plane stationary,engines off,passengers disembarking,gate position,plane serviced,boarding bridge attached,plane waiting,turnaround begun
+A ball rolling on the ground,ball moving,momentum maintained,ground contact,ball spinning,surface crossed,roll continued,ball slowing,path followed
+A ball bouncing on the floor,ball rebounding,floor hit,bounce height,ball airborne,energy released,bounce continued,ball hopping,rhythm maintained
+A ball lying on grass,ball stationary,grass beneath,ball resting,no movement,ball stopped,position held,ball still,game paused
+A kite flying in the sky,kite soaring,wind caught,string taut,kite ascending,sky dancing,altitude gained,kite stable,flight continued
+A kite moving with wind,kite drifting,wind directing,kite swaying,current followed,kite flowing,direction changing,wind powered,kite responsive
+A drone flying in the air,drone ascending,propellers spinning,altitude gained,drone maneuvering,camera recording,flight controlled,drone stable,sky navigating
+A drone hovering,drone stationary,position held,altitude maintained,drone steady,hovering stable,no movement,propellers balancing,stationary flight
+A skateboard rolling forward,skateboard moving,wheels spinning,forward motion,momentum maintained,pavement crossed,skateboard progressing,rolling continued,rider absent
+A skateboard lying on ground,skateboard stationary,ground contact,wheels still,skateboard resting,no movement,board flat,skateboard abandoned,position maintained
+A stroller moving on sidewalk,stroller pushed,baby inside,sidewalk traveled,parent guiding,wheels rolling,smooth movement,stroller advancing,walk continued
+A shopping cart moving,cart pushed,wheels rolling,items inside,store navigated,cart guided,aisles crossed,shopping continued,movement steady
+A shopping cart standing still,cart stationary,handle released,cart parked,no movement,cart waiting,position held,cart stopped,shopping paused
+A suitcase rolling on floor,suitcase wheeled,floor crossed,handle extended,traveler pulling,wheels turning,luggage moving,airport navigated,rolling continued
+A suitcase standing upright,suitcase stationary,position vertical,handle up,suitcase stable,no movement,luggage waiting,suitcase parked,standing position
+A door opening slowly,door swinging,hinges creaking,opening widening,room revealing,door moving,entrance expanding,light entering,opening progressing
+A door closing slowly,door swinging shut,gap narrowing,hinges moving,closure approaching,door sealing,opening reducing,door settling,click heard
+A window opening,window sliding,fresh air entering,outside visible,opening widening,window raised,ventilation started,breeze felt,view revealed
+A window closing,window lowering,gap sealing,outside blocked,window shut,closure completed,seal tight,protection provided,window secured
+A flag waving in the wind,flag fluttering,wind catching,fabric rippling,flag billowing,movement continuous,patriotic display,flag flowing,wind powered
+A flag standing still,flag hanging,no wind,flag drooping,stillness maintained,fabric limp,calm day,no movement,flag vertical
+A tree standing in a field,tree rooted,field occupied,branches spreading,tree stable,leaves rustling,tree strong,position fixed,tree growing
+A tree swaying in the wind,tree bending,branches moving,wind resistance,leaves fluttering,trunk flexing,swaying motion,wind caught,tree dancing
+Leaves falling from a tree,leaves descending,autumn happening,branches emptying,ground covering,colors showing,leaves drifting,fall progressing,tree shedding
+Grass moving in the wind,grass swaying,wind brushing,blades bending,wave pattern,grass dancing,wind visible,meadow flowing,gentle movement
+A river flowing slowly,water moving,current gentle,river meandering,peaceful flow,banks hugged,water progressing,downstream moving,tranquil flowing
+Water flowing in a stream,stream babbling,rocks navigated,water cascading,current steady,stream coursing,water rushing,downstream flowing,brook running
+Waves moving on the ocean,waves rolling,ocean dynamic,water undulating,waves forming,sea moving,rhythmic motion,waves building,ocean breathing
+Waves crashing on shore,waves breaking,foam forming,shore hit,water splashing,beach wet,powerful impact,spray rising,waves receding
+Clouds moving in the sky,clouds drifting,wind pushing,sky changing,cloud patterns,movement steady,weather shifting,clouds traveling,atmosphere dynamic
+Clouds covering the sun,sun blocked,shadow cast,light dimmed,clouds obscuring,darkness increasing,sun hidden,clouds thick,light reduced
+The sun rising over hills,sun ascending,dawn breaking,hills illuminated,morning beginning,light spreading,horizon brightened,new day,sun climbing
+The sun setting behind trees,sun descending,dusk arriving,trees silhouetted,sky orange,light fading,evening beginning,sun sinking,day ending
+Rain falling on the ground,rain dropping,ground wet,puddles forming,rain steady,earth watered,patter heard,rain soaking,precipitation continuing
+Snow falling gently,snow descending,flakes drifting,ground whitening,winter scene,snow accumulating,peaceful falling,landscape covering,snowfall continuing
+Snow covering the ground,ground white,snow accumulated,blanket formed,winter landscape,snow thick,visibility reduced,ground hidden,white expanse
+A mountain under sunlight,mountain illuminated,peaks glowing,sunlight bathing,mountain majestic,summit bright,shadows cast,mountain standing,light reflected
+A mountain covered in clouds,peak hidden,clouds enveloping,visibility low,mountain obscured,clouds thick,summit shrouded,weather closing,mountain mysterious
+A waterfall flowing down,water cascading,cliff descended,mist rising,waterfall thundering,pool below,spray felt,water plunging,falls continuing
+Water dripping from rocks,drops falling,rocks wet,steady dripping,water trickling,moss growing,drip pattern,moisture continuous,rocks glistening
+A lake reflecting the sky,surface mirror,sky doubled,reflection clear,water calm,clouds mirrored,peaceful scene,perfect reflection,beauty doubled
+A pond with still water,surface calm,no ripples,water motionless,pond peaceful,reflections clear,stillness complete,pond quiet,water glassy
+A field of flowers,flowers blooming,colors abundant,field colorful,petals open,flowers swaying,beauty displayed,field alive,blooms everywhere
+Flowers moving in wind,flowers swaying,petals dancing,stems bending,wind brushing,flowers nodding,gentle movement,blooms flowing,wind caressing
+A forest path,path winding,trees flanking,trail visible,forest entered,ground covered,path inviting,journey beckoning,forest navigating
+A forest clearing,opening revealed,trees surrounding,sunlight entering,clearing peaceful,space open,refuge found,center calm,forest break
+A beach with calm water,shore peaceful,water gentle,waves small,beach serene,calm surf,peaceful scene,tranquil beach,gentle lapping
+A beach with waves,shore active,waves rolling,surf crashing,beach dynamic,water powerful,foam forming,waves constant,energetic beach
+Sand blowing in the wind,sand lifting,wind carrying,dunes shifting,sand dancing,particles flying,desert active,sand moving,wind sculpting
+A desert with dunes,dunes rolling,sand mountains,desert expanse,heat shimmering,dunes shaped,endless sand,desert landscape,barren beauty
+Shadows moving on the ground,shadows shifting,sun tracking,time passing,shadows lengthening,light changing,shadows dancing,day progressing,patterns moving
+Fog covering a field,field obscured,visibility low,fog thick,mist enveloping,field hidden,moisture heavy,foggy morning,field mysterious
+Fog lifting slowly,fog clearing,visibility improving,field revealing,fog dispersing,sun breaking,mist rising,clarity increasing,morning brightening
+A rainbow in the sky,colors arcing,rainbow spanning,light refracted,spectrum visible,beauty displayed,rainbow bright,arc complete,colors vibrant
+A clear blue sky,sky cloudless,blue expanse,weather perfect,sunshine abundant,sky bright,visibility excellent,clear day,sky beautiful
+The moon in the night sky,moon shining,night illuminated,lunar glow,moon visible,stars surrounding,night sky,moon bright,celestial beauty
+Stars shining at night,stars twinkling,night sky,constellations visible,starlight reaching,night clear,stars numerous,sky sparkling,cosmic display
+A cloudy evening,clouds thick,evening dimmed,weather overcast,light fading,clouds heavy,evening gray,storm possible,clouds dominating
+A sunny afternoon,sun high,warmth abundant,brightness maximum,afternoon pleasant,sun shining,weather perfect,sunny day,light strong
+A calm morning scene,morning peaceful,day beginning,calm atmosphere,gentle light,morning quiet,peaceful start,serenity present,morning tranquil
+A quiet outdoor scene,peace reigning,sounds minimal,outdoor calm,quietness deep,scene tranquil,stillness present,peaceful outdoors,quiet beauty
+A cup placed on a table,cup positioned,table holding,cup stable,placement done,table occupied,cup resting,position secure,cup ready
+A cup falling from a table,cup tipping,gravity pulling,cup descending,crash imminent,table edge crossed,cup airborne,fall happening,impact approaching
+A book lying on a desk,book resting,desk occupied,book closed,position flat,desk holding,book waiting,resting position,book stationary
+A book opening,pages separating,book revealing,cover lifted,contents visible,pages spreading,book accessed,opening begun,reading starting
+A book closing,pages meeting,cover shutting,book sealed,closure completed,pages together,book finished,closing done,book shut
+A chair standing in a room,chair positioned,room furnished,chair empty,position fixed,room occupied,chair waiting,placement stable,chair ready
+A chair being pulled back,chair moving,position changing,chair dragged,seat accessed,movement backward,chair displaced,space created,sitting prepared
+A door slightly open,door ajar,gap present,room partially visible,door cracked,opening narrow,privacy partial,light coming through,door unsealed
+A door fully open,door wide,room revealed,entrance clear,opening complete,full access,room visible,door maximum,passage open
+A window with sunlight,light streaming,window bright,sun entering,room illuminated,warmth felt,sunbeams visible,window glowing,light flooding
+Curtains moving in wind,curtains billowing,fabric flowing,wind entering,curtains dancing,window breeze,movement gentle,curtains swaying,draft present
+Curtains standing still,curtains hanging,no movement,fabric stationary,curtains closed,stillness maintained,window covered,curtains vertical,no breeze
+A lamp turned on,light emitted,room brightened,bulb glowing,illumination provided,lamp shining,darkness dispelled,light spreading,lamp functioning
+A lamp turned off,light extinguished,room darkened,bulb dark,illumination ceased,lamp inactive,darkness returned,light gone,lamp silent
+A phone lying on a table,phone resting,table holding,phone screen down,device stationary,table occupied,phone waiting,position flat,phone idle
+A phone being picked up,phone lifted,hand grasping,device retrieved,table cleared,phone held,pickup completed,phone activated,hand holding
+A clock on a wall,clock mounted,time displayed,wall decorated,clock ticking,time passing,wall occupied,clock visible,time shown
+Clock hands moving,time advancing,hands rotating,minutes passing,mechanism working,time flowing,hands progressing,clock functioning,hours changing
+A plate on a table,plate positioned,table set,plate empty,placement ready,table holding,plate waiting,setting prepared,plate stable
+Food placed on a plate,plate filled,food served,meal ready,plate occupied,food displayed,serving completed,meal presented,plate full
+A bottle standing upright,bottle vertical,position stable,bottle balanced,upright stance,bottle ready,stable position,bottle standing,contents safe
+A bottle tipped over,bottle fallen,contents spilling,horizontal position,bottle knocked,liquid flowing,position changed,bottle down,spill happening
+A box on the floor,box placed,floor occupied,box closed,position stable,floor holding,box waiting,storage present,box stationary
+A box being opened,lid lifting,contents revealing,box accessed,opening begun,flaps separating,box unsealed,interior visible,opening progressing
+A bag placed on a chair,bag positioned,chair holding,bag resting,placement secure,chair occupied,bag stable,position maintained,bag waiting
+A bag falling from chair,bag slipping,gravity winning,bag descending,chair cleared,fall happening,bag airborne,impact imminent,bag dropping
+Shoes placed on floor,shoes positioned,floor occupied,shoes paired,placement neat,floor holding,shoes waiting,position stable,shoes resting
+Shoes being picked up,shoes lifted,hand grasping,shoes retrieved,floor cleared,shoes held,pickup done,shoes carried,hand holding
+A hat lying on a table,hat resting,table holding,hat flat,position stable,table occupied,hat waiting,placement casual,hat stationary
+A hat falling to the ground,hat dropping,gravity pulling,descent begun,ground approaching,hat airborne,fall happening,landing imminent,hat falling

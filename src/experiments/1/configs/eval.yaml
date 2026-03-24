@@ -1,0 +1,27 @@
+# experiment_1/configs/eval.yaml
+experiment_root: experiment_1/outputs
+test_json: /path/to/test.json   # <-- set this
+
+# generation
+num_frames: 5
+resolution: 512
+num_inference_steps: 30
+guidance_scale: 7.5
+seed: 42
+
+# diffusion model
+sd_model: runwayml/stable-diffusion-v1-5
+device: cuda
+
+# metrics
+clip_model: ViT-B-32
+clip_pretrained: openai
+alpha_ccs: 0.5
+
+# methods to run
+methods:
+  - vanilla_sd
+  - img2img_chain
+  # - consistory
+  # - storydiffusion
+  # - animatediff

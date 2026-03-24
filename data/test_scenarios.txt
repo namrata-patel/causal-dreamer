@@ -1,0 +1,194 @@
+A dog running in a park
+A dog jumping over a log
+A dog playing with a ball
+A dog sitting on grass
+A dog swimming in a lake
+A cat walking on a fence
+A cat jumping onto a table
+A cat sleeping on a sofa
+A cat playing with yarn
+A cat looking out a window
+A horse running on a field
+A horse standing in a stable
+A horse drinking water
+A cow grazing in a field
+A cow standing under a tree
+A bird flying in the sky
+A bird sitting on a branch
+A bird spreading its wings
+A duck swimming in a pond
+A duck walking near water
+A fish swimming underwater
+A fish jumping out of water
+A fish swimming near coral
+A dolphin jumping in the ocean
+A dolphin swimming underwater
+A turtle walking on sand
+A turtle swimming slowly
+A rabbit hopping on grass
+A rabbit eating a carrot
+A squirrel climbing a tree
+A squirrel holding a nut
+A lion walking on grass
+A lion resting in the sun
+A tiger walking in the forest
+A tiger drinking water
+A monkey climbing a tree
+A monkey sitting on a branch
+A sheep walking in a field
+A goat standing on a hill
+A deer running in a forest
+
+A person walking on a road
+A person running on a track
+A person jogging in a park
+A person jumping in the air
+A person stretching arms
+A person standing near a tree
+A person sitting on a bench
+A person reading a book
+A person drinking water
+A person holding a cup
+A child running on grass
+A child playing with a ball
+A child jumping happily
+A child sitting on the floor
+A man walking on a sidewalk
+A man running uphill
+A man standing under sunlight
+A woman walking in a park
+A woman running on a road
+A woman standing near flowers
+A person riding a bicycle
+A person stopping a bicycle
+A person pushing a bicycle
+A person riding a skateboard
+A person jumping on a skateboard
+A person standing on stairs
+A person climbing stairs
+A person descending stairs
+A person opening a door
+A person closing a door
+A person waving a hand
+A person raising an arm
+A person standing still
+A person turning around
+A person bending down
+A person picking up an object
+A person throwing a ball
+A person catching a ball
+A person sitting on grass
+A person lying on grass
+
+A car driving on a road
+A car parked on the street
+A car turning left
+A car stopping at a signal
+A car moving forward
+A bicycle moving forward
+A bicycle standing still
+A bicycle leaning on a wall
+A motorcycle driving on a road
+A motorcycle parked
+A train moving on tracks
+A train arriving at a station
+A bus stopping at a bus stop
+A bus driving on a road
+A boat floating on water
+A boat moving on a river
+A boat approaching shore
+A plane flying in the sky
+A plane landing on runway
+A plane parked at airport
+A ball rolling on the ground
+A ball bouncing on the floor
+A ball lying on grass
+A kite flying in the sky
+A kite moving with wind
+A drone flying in the air
+A drone hovering
+A skateboard rolling forward
+A skateboard lying on ground
+A stroller moving on sidewalk
+A shopping cart moving
+A shopping cart standing still
+A suitcase rolling on floor
+A suitcase standing upright
+A door opening slowly
+A door closing slowly
+A window opening
+A window closing
+A flag waving in the wind
+A flag standing still
+
+A tree standing in a field
+A tree swaying in the wind
+Leaves falling from a tree
+Grass moving in the wind
+A river flowing slowly
+Water flowing in a stream
+Waves moving on the ocean
+Waves crashing on shore
+Clouds moving in the sky
+Clouds covering the sun
+The sun rising over hills
+The sun setting behind trees
+Rain falling on the ground
+Snow falling gently
+Snow covering the ground
+A mountain under sunlight
+A mountain covered in clouds
+A waterfall flowing down
+Water dripping from rocks
+A lake reflecting the sky
+A pond with still water
+A field of flowers
+Flowers moving in wind
+A forest path
+A forest clearing
+A beach with calm water
+A beach with waves
+Sand blowing in the wind
+A desert with dunes
+Shadows moving on the ground
+Fog covering a field
+Fog lifting slowly
+A rainbow in the sky
+A clear blue sky
+The moon in the night sky
+Stars shining at night
+A cloudy evening
+A sunny afternoon
+A calm morning scene
+A quiet outdoor scene
+
+A cup placed on a table
+A cup falling from a table
+A book lying on a desk
+A book opening
+A book closing
+A chair standing in a room
+A chair being pulled back
+A door slightly open
+A door fully open
+A window with sunlight
+Curtains moving in wind
+Curtains standing still
+A lamp turned on
+A lamp turned off
+A phone lying on a table
+A phone being picked up
+A clock on a wall
+Clock hands moving
+A plate on a table
+Food placed on a plate
+A bottle standing upright
+A bottle tipped over
+A box on the floor
+A box being opened
+A bag placed on a chair
+A bag falling from chair
+Shoes placed on floor
+Shoes being picked up
+A hat lying on a table
+A hat falling to the ground
