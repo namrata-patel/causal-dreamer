@@ -362,10 +362,6 @@ Code will be released under MIT License upon acceptance.
 
 ---
 
-## ⚠️ Note
-
-This is an anonymous repository for double-blind review. Full author information, detailed acknowledgments, and public repository will be available upon paper acceptance.
-
 ---
 
 **Thank you for your interest in CausalDreamer!** 🚀
