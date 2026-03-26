@@ -32,7 +32,7 @@ CUDA >= 11.3 (for GPU support)
 
 ```bash
 # Clone repository
-git clone https://anonymous.4open.science/r/causal-dreamer-A501
+git clone https://github.com/namrata-patel/causal-dreamer.git
 cd causal-dreamer-A501
 
 # Create virtual environment (recommended)
